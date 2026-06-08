@@ -1,3 +1,3 @@
-# data_analysis_basics
+# Data Analysis Basics
 
-## Basic codes for data analysis practice.
+> Early ML work (2020) — data analysis fundamentals and exploratory analysis notebooks. Kept here for personal reference.
